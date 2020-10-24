@@ -1,0 +1,13 @@
+git clone https://github.com/doilus/epg1_git.git
+cd epg1_git
+git branch hw-s17226
+git log
+git checkout rebase-me
+git rebase hw-s17226
+git checkout hw-s17226
+git merge rebase-me
+git merge origin/merge-me
+git status
+nano README.md
+git add README.md
+git commit
