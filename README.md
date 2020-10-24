@@ -10,5 +10,9 @@
 - Push your branch to GitHub
 - Create Pull Request from your branch to this repository's master branch
 
+HEAD
 ## Rebase documentation
 <https://git-scm.com/docs/git-rebase>
+## Merge documentation
+<https://git-scm.com/docs/git-merge>
+origin/merge-me
